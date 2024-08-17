@@ -74,5 +74,6 @@ Privacy: Access your diagnosis, prescriptions, and medical history from the appo
 
 
 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
